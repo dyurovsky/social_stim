@@ -22,9 +22,6 @@ library(langcog)
 #try/catch for different number of calib points
 MAX_HEADER_ROWS <- 40
 
-LEARN_STIM <- LEARN_STIMS[video]
-CALIB_STIM <- CALIB_STIMS[video]
-
 X_MAX <- 1280
 Y_MAX <- 1024
 
